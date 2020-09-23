@@ -3,10 +3,10 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
 # Screen-shots
-!["screenshot for Home Page"]()
-!["screenshot for Drop Down Categories"]()
-!["screenshot for My Cart"]()
-!["screenshot for Product Details"]()
+!["screenshot for Home Page"](https://github.com/Ar355/jungle/blob/master/public/doc/HomePage.png)
+!["screenshot for Drop Down Categories"](https://github.com/Ar355/jungle/blob/master/public/doc/CategoriesDrowpDown.png)
+!["screenshot for My Cart"](https://github.com/Ar355/jungle/blob/master/public/doc/myCard.png)
+!["screenshot for Product Details"](https://github.com/Ar355/jungle/blob/master/public/doc/productDetail.png)
 
 
 
